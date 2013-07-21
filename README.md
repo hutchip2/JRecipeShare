@@ -1,7 +1,7 @@
 JRecipeShare
 ============
 
-A Java-based database portal for creating accounts and sharing recipes.
+A Java-based database portal that uses JDBC for creating accounts and sharing recipes.
 
 Document Title: ‘Recipe’ How-To, Features, and Documentation
 Author: Paul Hutchinson
