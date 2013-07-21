@@ -1,0 +1,3 @@
+username= recipeUser
+password= recipeUser
+databaseurl= jdbc:mysql://harrytalamini.com/recipe

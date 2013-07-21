@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 30
+/svn/cse385/!svn/ver/40/Recipe
+END
+identity.txt
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/cse385/!svn/ver/25/Recipe/identity.txt
+END
+miglayout-3.7.4.jar
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/cse385/!svn/ver/6/Recipe/miglayout-3.7.4.jar
+END
+mysql-connector-java-5.1.18-bin.jar
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/cse385/!svn/ver/21/Recipe/mysql-connector-java-5.1.18-bin.jar
+END
